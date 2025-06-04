@@ -1,7 +1,7 @@
 jenkins pipelines
 {
 int a,b;
-int sum =a+b;
+int mul=a*b;
 pf();
 sf();
 }
