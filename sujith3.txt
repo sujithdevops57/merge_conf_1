@@ -1,0 +1,3 @@
+hi this is jdbc welcome to jsp and servlet
+123456789
+
